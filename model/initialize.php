@@ -8,9 +8,9 @@ if(!defined('DB_NAME')) define('DB_NAME',"kfar");
 }else{
 
     if(!defined('DB_SERVER')) define('DB_SERVER',"localhost");
-    if(!defined('DB_USERNAME')) define('DB_USERNAME',"genderis_hcc");
-    if(!defined('DB_PASSWORD')) define('DB_PASSWORD',"V*?W@z;4U@kuD6T");
-    if(!defined('DB_NAME')) define('DB_NAME',"genderis_hcc");
+    if(!defined('DB_USERNAME')) define('DB_USERNAME',"kfarorg_kfar");
+    if(!defined('DB_PASSWORD')) define('DB_PASSWORD',"kfarorg_kfar");
+    if(!defined('DB_NAME')) define('DB_NAME',"kfarorg_kfar");
 }
 if(!defined('base_app')) define('base_app', str_replace('\\','/',__DIR__).'/' );
 // if(!defined('dev_data')) define('dev_data',$dev_data);
